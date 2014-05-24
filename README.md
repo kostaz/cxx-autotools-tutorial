@@ -1,3 +1,12 @@
+Steps
+-----
+
+1. aclocal
+2. autoconf
+3. automake --add-missing
+4. ./configure
+5. make
+
 References
 ----------
 
