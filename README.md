@@ -7,6 +7,13 @@ Steps
 4. ./configure
 5. make
 
+With autogen.sh script
+----------------------
+
+1. ./autogen.sh
+2. ./configure
+3. make
+
 References
 ----------
 
